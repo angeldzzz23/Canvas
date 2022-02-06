@@ -31,11 +31,10 @@ class ViewController: UIViewController {
         title = "My Canvas"
         updateViews()
         updateConstraints()
-//        view.addSubview(canvas)
-//        canvas.frame = view.frame
+
+
         canvas.backgroundColor = .white
         
-//        self.view.sendSubviewToBack(canvas)
         Currentbrushes.append(contentsOf: generateBrushes())
         
 

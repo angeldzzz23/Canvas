@@ -162,7 +162,7 @@ class ChooseABrushViewController: UIViewController {
         
         // add a brush Button
         
-//        let add = UIBarButtonItem(barButtonSystemItem: .add, target: self, action: #selector(addButtonWasPressed))
+
         self.navigationItem.rightBarButtonItem = UIBarButtonItem(title: "Add Brush", style: .plain, target: self, action: #selector(addButtonWasPressed))
 
 //        navigationItem.rightBarButtonItem = add
