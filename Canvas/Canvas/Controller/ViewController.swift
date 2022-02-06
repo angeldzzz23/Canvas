@@ -7,10 +7,6 @@
 
 import UIKit
 
-// TODO: Draw
-// CG Context
-// Video 1: https://www.youtube.com/watch?v=E2NTCmEsdSE
-// Video 2:
 
 protocol CanvasDelegate: class {
     func get(brush: Brush)
