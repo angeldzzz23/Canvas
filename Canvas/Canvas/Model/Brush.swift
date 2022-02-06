@@ -8,9 +8,6 @@
 import Foundation
 import UIKit
 
-// TODO: create model
-
-
 class Brush {
     var nameOfBrush: String
     var lengthOfBrush: Float

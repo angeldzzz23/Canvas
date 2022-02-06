@@ -390,12 +390,9 @@ extension EditBrushViewController: UIColorPickerViewControllerDelegate {
     func colorPickerViewControllerDidFinish(_ viewController: UIColorPickerViewController) {
         // the view controller dismiss
         print("viewcontroler dismiss")
-//        dismiss(animated: true, completion: nil)
+
         
     }
 }
 
 
-// TODO:
-// solve bug for this
-// One more bug left
