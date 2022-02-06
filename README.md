@@ -12,7 +12,7 @@ A drawing app that lets you draw using your own brushes.
 <center>Pre-made Brushes</center>
 </td>
 <td width="25%">
-<center>Creating a brush>
+<center>Creating a brush</center>
 </td>
 </tr>
 <tr>
@@ -29,11 +29,13 @@ A drawing app that lets you draw using your own brushes.
 
 ## 🌟 Features
 
-- [x] Creating an account
-- [x] Loggin in 
-- [x] Swipping on users 
-- [x] editting profile
+- [x] Drawing 
+- [x] Selecting a brush
+- [x] creating a brush
 
 
-**Additions**
-There are still some bugs that I havent figured out. For some reason when I create an account, it doesnt log in.
+**Bugs/fixes**
+There are still some things that I would want to fix.
+1. making the brush smoother 
+2. Support for different brushes and colors 
+
